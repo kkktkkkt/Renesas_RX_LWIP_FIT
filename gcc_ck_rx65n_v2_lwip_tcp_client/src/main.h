@@ -36,7 +36,6 @@
 #define TEST_DEST_IP_ADDR0      ((uint8_t) 192U)
 #define TEST_DEST_IP_ADDR1      ((uint8_t) 168U)
 #define TEST_DEST_IP_ADDR2      ((uint8_t) 137U)
-#define TEST_DEST_IP_ADDR2      ((uint8_t) 11U)
 #define TEST_DEST_IP_ADDR3      ((uint8_t) 1U)
 
 #endif /* MAIN_H */
